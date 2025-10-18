@@ -23,6 +23,7 @@ Thumbs.db
 *.pch
 
 # VS Code specific files
+.vscode
 .vscode/*
 !.vscode/tasks.json
 !.vscode/launch.json
